@@ -8,6 +8,7 @@ Folks should be able to tweet that they need (@occupycanhas) or have (@occupyhas
 Use cases detailed below:
 
 @willowbl00 sez: @OccupyCanHas we need a #tent down here in #seattle #westlake (adds to map)
+
 @benacker sez: I dropped a #tent to @willowbl00 via @OccupyHas. (removes from map)
 
 Here's some requests:
