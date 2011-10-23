@@ -21,3 +21,9 @@ Here's some requests:
 * use appropriate hash tags
 ** city or city abbreviation (it'll be up to us to include "#occupy AND #seattle" or "#occupyseattle" or "@occupyseattle" or "#ows #sea") or just request people be clear.
 ** needs tags can be #shelter #warmth #food #water #medical #legal #media #backup - further detail should be in the tweet itself, but those will have graphics
+
+Resource Information:
+---------------------
+
+* Data Store is in Couch DB hosted on iriscouch : http://occupycanhas.iriscouch.com/_utils/
+* Twitter addresses pertinent to the site: @occupycanhas @occupyhas
